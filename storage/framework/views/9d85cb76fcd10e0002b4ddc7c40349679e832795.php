@@ -1,0 +1,1 @@
+<h1>You can't enter the name vinay</h1><?php /**PATH C:\xampp\htdocs\mysecondproject\resources\views/noaccess.blade.php ENDPATH**/ ?>
